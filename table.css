@@ -1,0 +1,12 @@
+*{
+
+}
+table{
+    border-collapse: collapse;
+}
+table tr td,th{
+    border: 2px solid blue;
+}
+td{
+    text-align: centergit;
+}
