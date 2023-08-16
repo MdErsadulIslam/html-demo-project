@@ -1,0 +1,21 @@
+*{
+    text-align: center;
+
+}
+label{
+    font-size: 20px;
+}
+.title{
+    color: blue;
+    border-bottom: 2px solid violet;
+    width: 120px;
+    
+}
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+button{
+    background-color: bisque;
+}
