@@ -1,0 +1,31 @@
+*{
+    text-align: center;
+}
+h3{
+    text-align: center;
+    font-size:48px;
+    font-family: cursive;
+}
+label{
+    font-size: 20px;
+}
+input{width: 500px;height: 20px;
+    font-size: 20px;
+}
+textarea{width: 500px;}
+img{width: 500px;}
+.primary-btn{
+    width: 500px;height: 50px;
+    border-radius: 30px;
+    font-size: 20px;
+    background-color: rgb(132, 36, 132);
+    border: none;
+    color: white;
+    
+}
+.primary-btn:hover{
+    color: rgb(132, 36, 132);
+    background-color: rgb(255, 255, 255);
+    border: 5px solid rgb(132, 36, 132);
+    font-weight: bolder;
+}
